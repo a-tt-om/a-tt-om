@@ -14,7 +14,7 @@
 <tr valign="top">
 
 <!-- LEFT COLUMN -->
-<td width="22%" style="border: none; padding-right: 15px;">
+<td width="20%" style="border: none; padding-right: 15px;">
 
 <div align="right" style="font-family: monospace;">
 
@@ -52,23 +52,13 @@ Web Security<br>Vuln Research<br>Pentest/RedTeam
 <div style="color: #c9d1d9; font-size: 15px; line-height: 1.8; font-family: monospace;">
 <span style="font-size: 16px; font-weight: bold;">`> whoami`</span><br>
 Hi there, I'm Toàn Thắng (#<b>attom</b>).<br>
-Third-year Computer Science student at Hanoi University of Science and Technology.
+I am currently navigating my third year as a Computer Science student at Hanoi University of Science and Technology.
 <br><br>
-
-<span style="color: #8b949e; font-size: 15px; font-weight: bold;">`> CURRENT_PROCESSES`</span><br>
->&nbsp; 🛡️ Application Security @ <b>VinSOC</b><br>
->&nbsp; 🏴‍☠️ Head of Web Exploitation @ <b>BKSec</b><br>
->&nbsp; 🚩 Active CTF Player<br>
-
-<br>
-
-<span style="color: #8b949e; font-size: 15px; font-weight: bold;">`> OBJECTIVES`</span><br>
->&nbsp; 🔬 Dive deep into Vulnerability Research & Red Teaming.<br>
->&nbsp; ⚙️ Understand how everything works under the hood.<br>
->&nbsp; 🐛 Discover new vulnerabilities and challenge myself.<br>
-
-<br>
-Always happy to connect! Whether you want to discuss cool stuffs or just say hi, my inbox is open.
+My professional journey is deeply rooted in <b>offensive security</b>. I currently work in Application Security at <b>VinSOC</b>, and serve as proud member of <b>BKSec</b> - Head of Web Exploitation. I actively participate in CTF competitions with my teammates, it's a fantastic way for us to connect, have fun, and continuously learn from each other to elevate our skills.
+<br><br>
+My ultimate goal is to dive deep into <b>vulnerability research</b> and <b>redteaming</b>, figuring out how everything works under the hood, discovering new vulnerabilities and challenging myself.
+<br><br>
+Always happy to connect! Whether you want to discuss some cool stuffs or just say hi, my inbox is open.
 <br><br>
 <div align="right" style="color: #8b949e; font-size: 14px;">
   <i>👾 `> SYSTEM_LOG:` Unauthorized entity detected.<br>You are visitor <img src="https://komarev.com/ghpvc/?username=a-tt-om&color=1f6feb&style=flat-square&label=reqs&labelColor=161b22" style="vertical-align: middle;" /> to breach this mainframe.<br>Please do not drop my tables.</i>
@@ -120,8 +110,6 @@ Always happy to connect! Whether you want to discuss cool stuffs or just say hi,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/pacman-contribution-graph.svg" />
   <img alt="pacman-contribution-graph" src="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/pacman-contribution-graph-dark.svg" />
 </picture>
-
-<br><br>
 
 <sub style="color: #8b949e; letter-spacing: 1px; font-family: monospace;">[ EOF ]</sub>
 </div>
