@@ -14,7 +14,7 @@
 <tr valign="top">
 
 <!-- LEFT COLUMN -->
-<td width="22%" style="border: none; padding-right: 15px;">
+<td width="16%" style="border: none; padding-right: 15px;">
 
 <div align="right" style="font-family: monospace;">
 
@@ -24,7 +24,7 @@
 
 <span style="color: #8b949e; font-size: 16px; font-weight: bold;">`> ORG`</span><br>
 AppSec @ VinSOC<br>
-Head of Web @ [BKSec](https://bksec.vn)
+Web @ [BKSec](https://bksec.vn)
 
 <br><br>
 
