@@ -50,9 +50,9 @@ Web Security<br>Vuln Research<br>Pentest/RedTeam
 <td width="78%" style="border: none; padding-left: 20px; border-left: 1px dashed #ffffff;">
 
 <div style="color: #c9d1d9; font-size: 23px; line-height: 1.8; font-family: monospace;">
-<h2><code>`&gt; whoami`</code></h2>
-Hi there, I'm Toàn Thắng (#<b>attom</b>).<br>
-
+<h3><code>&gt; whoami</code></h3>
+Hi there, I'm Toàn Thắng (#<b>attom</b>).
+<br><br>
 I am currently navigating my third year as a Computer Science student at Hanoi University of Science and Technology.
 <br><br>
 My professional journey is deeply rooted in <b>offensive security</b>. I currently work in Application Security at <b>VinSOC</b>, and serve as proud member of <b>BKSec</b> - Head of Web Exploitation. I actively participate in CTF competitions with my teammates, it's a fantastic way for us to connect, have fun, and continuously learn from each other to elevate our skills.
@@ -76,7 +76,7 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 
 | `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `LINK` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `CVE-2026-48120` | `22-05-2026` | [`Kakoune`](https://github.com/mawww/kakoune) | Cmd Execution | 🔴 High | [`[GHSA-h99r-h8cp-vwcq]`](https://github.com/mawww/kakoune/security/advisories/GHSA-h99r-h8cp-vwcq) | --- |
+| `CVE-2026-48120` | `22-05-2026` | [`Kakoune`](https://github.com/mawww/kakoune) | Command Execution | 🔴 High | [`[GHSA-h99r-h8cp-vwcq]`](https://github.com/mawww/kakoune/security/advisories/GHSA-h99r-h8cp-vwcq) | --- |
 | `CVE-2026-45077` | `21-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Insecure Deserialization | 🔴 High | [`[GHSA-m7v2-7gxm-vc2v]`](https://github.com/symfony/symfony/security/advisories/GHSA-m7v2-7gxm-vc2v) | [`[CVE-2026-45077]`](https://symfony.com/blog/cve-2026-45077-unauthenticated-php-object-deserialization-in-monologbridge-server-log-listener) |
 
 <br><br>
