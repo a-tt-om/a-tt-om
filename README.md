@@ -49,8 +49,8 @@ Web Security<br>Vuln Research<br>Pentest/RedTeam
 <!-- RIGHT COLUMN -->
 <td width="78%" style="border: none; padding-left: 20px; border-left: 1px dashed #ffffff;">
 
-<div style="color: #c9d1d9; font-size: 15px; line-height: 1.8; font-family: monospace;">
-<span style="font-size: 16px; font-weight: bold;">`> whoami`</span><br>
+<div style="color: #c9d1d9; font-size: 17px; line-height: 1.8; font-family: monospace;">
+<span style="font-size: 24px; font-weight: bold; color: #58a6ff;">&gt; whoami</span><br>
 Hi there, I'm Toàn Thắng (#<b>attom</b>).<br>
 I am currently navigating my third year as a Computer Science student at Hanoi University of Science and Technology.
 <br><br>
@@ -59,7 +59,7 @@ My professional journey is deeply rooted in <b>offensive security</b>. I current
 My ultimate goal is to dive deep into <b>vulnerability research</b> and <b>redteaming</b>, figuring out how everything works under the hood, discovering new vulnerabilities and challenging myself.
 <br><br>
 Always happy to connect! Whether you want to discuss some cool stuffs or just say hi, my inbox is open.
-<br><br>
+<br><br><br>
 <div align="right" style="color: #8b949e; font-size: 14px;">
   <i>👾 `> SYSTEM_LOG:` Unauthorized entity detected.<br>You are visitor <img src="https://komarev.com/ghpvc/?username=a-tt-om&color=1f6feb&style=flat-square&label=reqs&labelColor=161b22" style="vertical-align: middle;" /> to breach this mainframe.<br>Please do not drop my tables.</i>
 </div>
