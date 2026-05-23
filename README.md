@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=T+O+A+N+++T+H+A+N+G;%23attom" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=60&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=T+O+A+N+++T+H+A+N+G;%23attom" />
 
 <p align="center">
-  <sub style="color: #8b949e; letter-spacing: 2px; font-family: monospace;">> CTF / PENTEST / REDTEAM / RESEARCH _</sub>
+  <span style="color: #8b949e; letter-spacing: 2px; font-family: monospace;">> CTF / PENTEST / REDTEAM / RESEARCH _</span>
 </p>
 
 </div>
@@ -40,12 +40,7 @@ Web Security<br>Vuln Research<br>Pentest/RedTeam
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=2CA5E0&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/a_tt_om)<br>
 [![Portfolio](https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=161b22&logo=Vercel&logoColor=FFFFFF&label=)](https://attom.id.vn/)
 
-<br><br>
 
-<span style="color: #8b949e; font-size: 16px; font-weight: bold;">`> TRAFFIC`</span><br>
-<picture>
-  <img src="https://komarev.com/ghpvc/?username=a-tt-om&color=58a6ff&style=for-the-badge&label=VISITORS&labelColor=0d1117" width="80" />
-</picture>
 
 </div>
 
@@ -64,22 +59,26 @@ My professional journey is deeply rooted in offensive security. I currently work
 My ultimate goal is to dive deep into vulnerability research and redteaming, figuring out how everything works under the hood, discovering new vulnerabilities and challenging myself.
 <br><br>
 Always happy to connect! Whether you want to discuss some cool stuffs or just say hi, my inbox is open.
-</div>
-
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=200&height=30&lines=%2F%2F+CVE_LOG" />
-
-| `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `LINK` |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `CVE-2026-48120` | `22-05-2026` | [`Kakoune`](https://github.com/mawww/kakoune) | Arbitrary Command Execution | 🔴 High | [`GHSA-h99r-h8cp-vwcq`](https://github.com/mawww/kakoune/security/advisories/GHSA-h99r-h8cp-vwcq) | --- |
-| `CVE-2026-45077` | `21-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | PHP Insecure Deserialization | 🔴 High | [GHSA-m7v2-7gxm-vc2v](https://github.com/symfony/symfony/security/advisories/GHSA-m7v2-7gxm-vc2v) | [`CVE-2026-45077`](https://symfony.com/blog/cve-2026-45077-unauthenticated-php-object-deserialization-in-monologbridge-server-log-listener) |
+<div align="right" style="color: #8b949e; font-size: 14px;">
+  <i>👾 `> SYSTEM_LOG:` Unauthorized entity detected.<br>You are visitor <img src="https://komarev.com/ghpvc/?username=a-tt-om&color=00ffff&style=flat-square&label=reqs&labelColor=161b22" style="vertical-align: middle;" /> to breach this mainframe.<br>Please do not drop my tables.</i>
+</div>
+</div>
 
 </td>
 </tr>
 </table>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=200&height=30&lines=%2F%2F+CVE_LOG" />
+
+| `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `LINK` |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `CVE-2026-48120` | `22-05-2026` | [`Kakoune`](https://github.com/mawww/kakoune) | Cmd Execution | 🔴 High | [`[GHSA-h99r-h8cp-vwcq]`](https://github.com/mawww/kakoune/security/advisories/GHSA-h99r-h8cp-vwcq) | --- |
+| `CVE-2026-45077` | `21-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Insecure Deserialization | 🔴 High | [`[GHSA-m7v2-7gxm-vc2v]`](https://github.com/symfony/symfony/security/advisories/GHSA-m7v2-7gxm-vc2v) | [`[CVE-2026-45077]`](https://symfony.com/blog/cve-2026-45077-unauthenticated-php-object-deserialization-in-monologbridge-server-log-listener) |
+
+<br><br>
 
 <div align="center">
   <hr style="border: 0; border-top: 1px dashed #ffffff; width: 60%; margin: 30px auto;"/>
@@ -89,12 +88,12 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 <tr valign="top">
 <td width="50%" align="center">
   <picture>
-    <img src="https://github-readme-stats.shion.dev/api?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&show_icons=true" />
+    <img src="https://github-readme-stats.shion.dev/api?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&title_color=00ffff&text_color=c9d1d9&icon_color=00ff00&show_icons=true" />
   </picture>
 </td>
 <td width="50%" align="center">
   <picture>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ffffff&text_color=8b949e" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00ffff&text_color=c9d1d9" />
   </picture>
 </td>
 </tr>
@@ -103,10 +102,13 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 <br>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=300&height=30&lines=%2F%2F+CONTRIBUTION_PACMAN" />
+<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/pacman-contribution-graph.svg" />
+  <img alt="pacman-contribution-graph" src="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/pacman-contribution-graph-dark.svg" />
 </picture>
 
 <br><br>
