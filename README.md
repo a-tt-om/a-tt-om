@@ -14,7 +14,7 @@
 <tr valign="top">
 
 <!-- LEFT COLUMN -->
-<td width="18%" style="border: none; padding-right: 15px;">
+<td width="19%" style="border: none; padding-right: 15px;">
 
 <div align="right" style="font-family: monospace;">
 
