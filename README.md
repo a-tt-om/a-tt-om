@@ -72,7 +72,7 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=200&height=30&lines=%2F%2F+CVE_LOG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=200&height=30&lines=%2F%2F+RESEARCH_LOG" />
 
 | `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `LINK` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
