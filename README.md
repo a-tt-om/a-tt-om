@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=60&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=T+O+A+N+++T+H+A+N+G;%23attom" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=T+O+A+N+++T+H+A+N+G;%23attom" />
 
 <p align="center">
   <span style="color: #8b949e; letter-spacing: 2px; font-family: monospace;">> CTF / PENTEST / REDTEAM / RESEARCH _</span>
@@ -14,11 +14,11 @@
 <tr valign="top">
 
 <!-- LEFT COLUMN -->
-<td width="25%" style="border: none; padding-right: 20px;">
+<td width="22%" style="border: none; padding-right: 15px;">
 
 <div align="right" style="font-family: monospace;">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=150&height=30&lines=%2F%2F+META_DATA" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=110&height=30&lines=%2F%2F+META_DATA" />
 
 <br>
 
@@ -47,21 +47,31 @@ Web Security<br>Vuln Research<br>Pentest/RedTeam
 </td>
 
 <!-- RIGHT COLUMN -->
-<td width="75%" style="border: none; padding-left: 25px; border-left: 1px dashed #ffffff;">
+<td width="78%" style="border: none; padding-left: 20px; border-left: 1px dashed #ffffff;">
 
-<div align="justify" style="color: #c9d1d9; font-size: 15px; line-height: 1.8; font-family: monospace;">
+<div style="color: #c9d1d9; font-size: 15px; line-height: 1.8; font-family: monospace;">
 <span style="font-size: 16px; font-weight: bold;">`> whoami`</span><br>
 Hi there, I'm Toàn Thắng (#<b>attom</b>).<br>
-I am currently navigating my third year as a Computer Science student at Hanoi University of Science and Technology.
+Third-year Computer Science student at Hanoi University of Science and Technology.
 <br><br>
-My professional journey is deeply rooted in offensive security. I currently work in Application Security at <b>VinSOC</b>, and serve as proud member of <b>BKSec</b> - Head of Web Exploitation. I actively participate in CTF competitions with my teammates, it's a fantastic way for us to connect, have fun, and continuously learn from each other to elevate our skills.
-<br><br>
-My ultimate goal is to dive deep into vulnerability research and redteaming, figuring out how everything works under the hood, discovering new vulnerabilities and challenging myself.
-<br><br>
-Always happy to connect! Whether you want to discuss some cool stuffs or just say hi, my inbox is open.
+
+<span style="color: #8b949e; font-size: 15px; font-weight: bold;">`> CURRENT_PROCESSES`</span><br>
+>&nbsp; 🛡️ Application Security @ <b>VinSOC</b><br>
+>&nbsp; 🏴‍☠️ Head of Web Exploitation @ <b>BKSec</b><br>
+>&nbsp; 🚩 Active CTF Player<br>
+
+<br>
+
+<span style="color: #8b949e; font-size: 15px; font-weight: bold;">`> OBJECTIVES`</span><br>
+>&nbsp; 🔬 Dive deep into Vulnerability Research & Red Teaming.<br>
+>&nbsp; ⚙️ Understand how everything works under the hood.<br>
+>&nbsp; 🐛 Discover new vulnerabilities and challenge myself.<br>
+
+<br>
+Always happy to connect! Whether you want to discuss cool stuffs or just say hi, my inbox is open.
 <br><br>
 <div align="right" style="color: #8b949e; font-size: 14px;">
-  <i>👾 `> SYSTEM_LOG:` Unauthorized entity detected.<br>You are visitor <img src="https://komarev.com/ghpvc/?username=a-tt-om&color=00ffff&style=flat-square&label=reqs&labelColor=161b22" style="vertical-align: middle;" /> to breach this mainframe.<br>Please do not drop my tables.</i>
+  <i>👾 `> SYSTEM_LOG:` Unauthorized entity detected.<br>You are visitor <img src="https://komarev.com/ghpvc/?username=a-tt-om&color=1f6feb&style=flat-square&label=reqs&labelColor=161b22" style="vertical-align: middle;" /> to breach this mainframe.<br>Please do not drop my tables.</i>
 </div>
 </div>
 
@@ -103,7 +113,7 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=300&height=30&lines=%2F%2F+CONTRIBUTION_PACMAN" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=300&height=30&center=true&vCenter=true&lines=%2F%2F+CONTRIBUTION_PACMAN" />
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-tt-om/a-tt-om/output/pacman-contribution-graph-dark.svg" />
