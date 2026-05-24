@@ -62,7 +62,7 @@ My goal is to dive deep into <b>vulnerability research</b> and <b>redteaming</b>
 Always happy to connect! Whether you want to discuss some cool stuffs or just say hi, my inbox is open.
 <br><br><br>
 <div align="right" style="color: #8b949e; font-size: 14px;">
-  <i>👾 `> SYSTEM_LOG:` Unauthorized entity detected.<br>You are visitor <img src="https://komarev.com/ghpvc/?username=a-tt-om&color=1f6feb&style=flat-square&label=reqs&labelColor=161b22" style="vertical-align: middle;" /> to breach this mainframe.<br>Please do not drop my tables.</i>
+  <i>👾 `> SYSTEM_LOG:` Unauthorized entity detected.<br>You are visitor <img src="https://hits.sh/github.com/a-tt-om.svg?style=flat-square&label=reqs&color=007ec6" style="vertical-align: middle;" /> to breach this mainframe.<br>Please do not drop my tables.</i>
 </div>
 </div>
 
