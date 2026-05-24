@@ -50,7 +50,7 @@ Web Security<br>Vuln Research<br>Pentest/RedTeam
 <td width="78%" style="border: none; padding-left: 20px; border-left: 1px dashed #ffffff;">
 
 <div style="color: #c9d1d9; font-size: 23px; line-height: 1.8; font-family: monospace;">
-<h2><code>&gt; whoami</code></h2>
+<h2><code>`&gt; whoami`</code></h2>
 Hi there, I'm Toàn Thắng (#<b>attom</b>).
 <br><br>
 I am currently navigating my third year as a Computer Science @ Hanoi University of Science and Technology.
