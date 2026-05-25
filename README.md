@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=T+O+A+N+++T+H+A+N+G;%23attom" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=T+O+A+N+++T+H+A+N+G;%23attom" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=4000&pause=2000&color=000000&center=true&vCenter=true&width=800&height=80&lines=T+O+A+N+++T+H+A+N+G;%23attom" />
+  <img alt="TOAN THANG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=T+O+A+N+++T+H+A+N+G;%23attom" />
+</picture>
 
 <p align="center">
   <span style="color: #8b949e; letter-spacing: 2px; font-family: monospace;">> CTF / PENTEST / REDTEAM / RESEARCH _</span>
