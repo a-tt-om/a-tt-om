@@ -93,11 +93,15 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 <tr valign="top">
 <td width="50%" align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&title_color=00ffff&text_color=c9d1d9&icon_color=00ff00&show_icons=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&title_color=007ec6&text_color=24292e&icon_color=24292e&show_icons=true" />
     <img src="https://github-readme-stats.shion.dev/api?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&title_color=00ffff&text_color=c9d1d9&icon_color=00ff00&show_icons=true" />
   </picture>
 </td>
 <td width="50%" align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00ffff&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=007ec6&text_color=24292e" />
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=a-tt-om&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00ffff&text_color=c9d1d9" />
   </picture>
 </td>
