@@ -78,8 +78,9 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=200&height=30&lines=%2F%2F+RESEARCH_LOG" />
 
-| `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `LINK` |
+| `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `REF` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|`CVE-2026-54281`| `08-06-2026` | [`NestJS`](https://github.com/nestjs/nest) | Incorrect Authorization | 🔴 High | [`[GHSA-6v32-fjc9-9qf6]`](https://github.com/nestjs/nest/security/advisories/GHSA-6v32-fjc9-9qf6) | --- |
 |`CVE-2026-48489`| `27-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Incorrect Authorization | 🔴 High | [`[GHSA-6h46-9jf5-q59x]`](https://github.com/symfony/symfony/security/advisories/GHSA-6h46-9jf5-q59x) | [`[CVE-2026-48489]`](https://symfony.com/blog/cve-2026-48489-security-firewall-bypass-via-failure-forward-subrequest) |
 | `CVE-2026-48120` | `22-05-2026` | [`Kakoune`](https://github.com/mawww/kakoune) | Command Execution | 🔴 High | [`[GHSA-h99r-h8cp-vwcq]`](https://github.com/mawww/kakoune/security/advisories/GHSA-h99r-h8cp-vwcq) | --- |
 | `CVE-2026-45077` | `21-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Insecure Deserialization | 🔴 High | [`[GHSA-m7v2-7gxm-vc2v]`](https://github.com/symfony/symfony/security/advisories/GHSA-m7v2-7gxm-vc2v) | [`[CVE-2026-45077]`](https://symfony.com/blog/cve-2026-45077-unauthenticated-php-object-deserialization-in-monologbridge-server-log-listener) |
