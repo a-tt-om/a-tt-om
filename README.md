@@ -80,7 +80,7 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 
 | `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `REF` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|`Updating...`| `14-06-2026` | [`Echo`](https://github.com/labstack/echo) | Path Traversal | 🟠 High | [`[GHSA-vfp3-v2gw-7wfq]`](https://github.com/labstack/echo/security/advisories/GHSA-vfp3-v2gw-7wfq) | --- |
+|`CVE-2026-55677`| `14-06-2026` | [`Echo`](https://github.com/labstack/echo) | Path Traversal | 🟠 High | [`[GHSA-vfp3-v2gw-7wfq]`](https://github.com/labstack/echo/security/advisories/GHSA-vfp3-v2gw-7wfq) | --- |
 |`CVE-2026-55421`| `12-06-2026` | [`Open edX Platform`](https://github.com/openedx/openedx-platform) | SSRF | 🟡 Moderate | [`[GHSA-fpf9-9rpr-jvrx]`](https://github.com/openedx/openedx-platform/security/advisories/GHSA-fpf9-9rpr-jvrx) | --- |
 |`CVE-2026-54281`| `08-06-2026` | [`NestJS`](https://github.com/nestjs/nest) | Incorrect Authorization | 🟠 High | [`[GHSA-6v32-fjc9-9qf6]`](https://github.com/nestjs/nest/security/advisories/GHSA-6v32-fjc9-9qf6) | --- |
 |`CVE-2026-48489`| `27-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Incorrect Authorization | 🟠 High | [`[GHSA-6h46-9jf5-q59x]`](https://github.com/symfony/symfony/security/advisories/GHSA-6h46-9jf5-q59x) | [`[CVE-2026-48489]`](https://symfony.com/blog/cve-2026-48489-security-firewall-bypass-via-failure-forward-subrequest) |
