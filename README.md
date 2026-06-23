@@ -80,6 +80,7 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 
 | `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `REF` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|`Updating...`| `23-06-2026` | [`Hono`](https://github.com/honojs/hono) | XSS | 🟡 Moderate | [`[GHSA-w62v-xxxg-mg59]`](https://github.com/honojs/hono/security/advisories/GHSA-w62v-xxxg-mg59) | --- |
 |`CVE-2026-55677`| `14-06-2026` | [`Echo`](https://github.com/labstack/echo) | Path Traversal | 🟠 High | [`[GHSA-vfp3-v2gw-7wfq]`](https://github.com/labstack/echo/security/advisories/GHSA-vfp3-v2gw-7wfq) | --- |
 |`CVE-2026-55421`| `12-06-2026` | [`Open edX Platform`](https://github.com/openedx/openedx-platform) | SSRF | 🟡 Moderate | [`[GHSA-fpf9-9rpr-jvrx]`](https://github.com/openedx/openedx-platform/security/advisories/GHSA-fpf9-9rpr-jvrx) | --- |
 |`CVE-2026-54281`| `08-06-2026` | [`NestJS`](https://github.com/nestjs/nest) | Incorrect Authorization | 🟠 High | [`[GHSA-6v32-fjc9-9qf6]`](https://github.com/nestjs/nest/security/advisories/GHSA-6v32-fjc9-9qf6) | --- |
