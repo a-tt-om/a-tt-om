@@ -78,7 +78,7 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&color=8B949E&width=200&height=30&lines=%2F%2F+RESEARCH_LOG" />
 
-| `ID` | `DATE` | `PROJECT` | `TYPE` | `SEV` | `ADVISORY` | `REF` |
+| `ID` | `DATE` | `TARGET` | `TYPE` | `SEV` | `ADVISORY` | `REF` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |`Updating...`| `23-06-2026` | [`Hono`](https://github.com/honojs/hono) | XSS | 🟡 Moderate | [`[GHSA-w62v-xxxg-mg59]`](https://github.com/honojs/hono/security/advisories/GHSA-w62v-xxxg-mg59) | --- |
 |`CVE-2026-55677`| `14-06-2026` | [`Echo`](https://github.com/labstack/echo) | Path Traversal | 🟠 High | [`[GHSA-vfp3-v2gw-7wfq]`](https://github.com/labstack/echo/security/advisories/GHSA-vfp3-v2gw-7wfq) | --- |
