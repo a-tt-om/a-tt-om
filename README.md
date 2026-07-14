@@ -80,13 +80,13 @@ Always happy to connect! Whether you want to discuss some cool stuffs or just sa
 
 | `ID` | `DATE` | `TARGET` | `TYPE` | `SEV` | `ADVISORY` | `REF` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|`CVE-2026-59895`| `23-06-2026` | [`Hono`](https://github.com/honojs/hono) | XSS | 🟡 Moderate | [`[GHSA-w62v-xxxg-mg59]`](https://github.com/honojs/hono/security/advisories/GHSA-w62v-xxxg-mg59) | --- |
-|`CVE-2026-55677`| `14-06-2026` | [`Echo`](https://github.com/labstack/echo) | Path Traversal | 🟠 High | [`[GHSA-vfp3-v2gw-7wfq]`](https://github.com/labstack/echo/security/advisories/GHSA-vfp3-v2gw-7wfq) | --- |
+|`CVE-2026-59895`| `23-06-2026` | [`Hono`](https://github.com/honojs/hono) | XSS | 🟡 Moderate | [`[GHSA-w62v-xxxg-mg59]`](https://github.com/honojs/hono/security/advisories/GHSA-w62v-xxxg-mg59) | [`www.cve.org`](https://www.cve.org/CVERecord?id=CVE-2026-59895) |
+|`CVE-2026-55677`| `14-06-2026` | [`Echo`](https://github.com/labstack/echo) | Path Traversal | 🟠 High | [`[GHSA-vfp3-v2gw-7wfq]`](https://github.com/labstack/echo/security/advisories/GHSA-vfp3-v2gw-7wfq) | [`www.cve.org`](https://www.cve.org/CVERecord?id=CVE-2026-55677) |
 |`CVE-2026-55421`| `12-06-2026` | [`Open edX Platform`](https://github.com/openedx/openedx-platform) | SSRF | 🟡 Moderate | [`[GHSA-fpf9-9rpr-jvrx]`](https://github.com/openedx/openedx-platform/security/advisories/GHSA-fpf9-9rpr-jvrx) | --- |
-|`CVE-2026-54281`| `08-06-2026` | [`NestJS`](https://github.com/nestjs/nest) | Incorrect Authorization | 🟠 High | [`[GHSA-6v32-fjc9-9qf6]`](https://github.com/nestjs/nest/security/advisories/GHSA-6v32-fjc9-9qf6) | --- |
-|`CVE-2026-48489`| `27-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Incorrect Authorization | 🟠 High | [`[GHSA-6h46-9jf5-q59x]`](https://github.com/symfony/symfony/security/advisories/GHSA-6h46-9jf5-q59x) | [`[CVE-2026-48489]`](https://symfony.com/blog/cve-2026-48489-security-firewall-bypass-via-failure-forward-subrequest) |
+|`CVE-2026-54281`| `08-06-2026` | [`NestJS`](https://github.com/nestjs/nest) | Incorrect Authorization | 🟠 High | [`[GHSA-6v32-fjc9-9qf6]`](https://github.com/nestjs/nest/security/advisories/GHSA-6v32-fjc9-9qf6) | [`www.cve.org`](https://www.cve.org/CVERecord?id=CVE-2026-54281) |
+|`CVE-2026-48489`| `27-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Incorrect Authorization | 🟠 High | [`[GHSA-6h46-9jf5-q59x]`](https://github.com/symfony/symfony/security/advisories/GHSA-6h46-9jf5-q59x) | [`symfony.com`](https://symfony.com/blog/cve-2026-48489-security-firewall-bypass-via-failure-forward-subrequest) |
 | `CVE-2026-48120` | `22-05-2026` | [`Kakoune`](https://github.com/mawww/kakoune) | Command Execution | 🟠 High | [`[GHSA-h99r-h8cp-vwcq]`](https://github.com/mawww/kakoune/security/advisories/GHSA-h99r-h8cp-vwcq) | --- |
-| `CVE-2026-45077` | `21-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Insecure Deserialization | 🟠 High | [`[GHSA-m7v2-7gxm-vc2v]`](https://github.com/symfony/symfony/security/advisories/GHSA-m7v2-7gxm-vc2v) | [`[CVE-2026-45077]`](https://symfony.com/blog/cve-2026-45077-unauthenticated-php-object-deserialization-in-monologbridge-server-log-listener) |
+| `CVE-2026-45077` | `21-05-2026` | [`Symfony`](https://github.com/symfony/symfony) | Insecure Deserialization | 🟠 High | [`[GHSA-m7v2-7gxm-vc2v]`](https://github.com/symfony/symfony/security/advisories/GHSA-m7v2-7gxm-vc2v) | [`symfony.com`](https://symfony.com/blog/cve-2026-45077-unauthenticated-php-object-deserialization-in-monologbridge-server-log-listener) |
 
 <br><br>
 
